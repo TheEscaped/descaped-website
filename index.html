@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+
+<ul id="articles_container">
+	{% for post in paginator.posts %} 
+		<li class="article_wrapper">
+			<!-- Disable social links from the category page for the moment -->
+      {% include social_links.html %}
+			<div id="authors">
+      	<img src="/assets/images/{{post.author}}.jpg"/>
+      		<div>
+            <a href="/authors/{{post.author}}">{{post.author}}</a><br/>{{post.date | date: "%d %B %Y" }}
+          </div>
+      </div>
+    
+      <div class="article_title"> 
+        <a href="{{ post.url }}">{{post.title}}</a>
+      </div>
+
+      <div id="article_content">
+        {{post.summary}} <!-- Should probably have its own div, for parsing.  -->
+        <br>
+        <br>
+        <a href="{{ post.url }}">> Read more</a>
+      </div>
+		</li>
+	{% endfor %} 	
+</ul>	
+
+  <!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <!-- If at page 2, previous button leads back to index page, instead of the nonexistant /page1 -->
+    {% if paginator.previous_page == 1 %}
+      <a href="/" class="previous">< Previous</a>
+    {% else %}
+      <a href="/page{{paginator.previous_page}}" class="previous">< Previous</a>
+    {% endif %}
+  {% endif %}
+  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next">Next ></a>
+  {% endif %}
+</div>
+
+
