@@ -1,7 +1,4 @@
-pygments: true
 paginate: 10
-auto: true
-server: true
 prose:
   rooturl: "_posts"
 oauth_client_id: 065ed6a0192921d71997

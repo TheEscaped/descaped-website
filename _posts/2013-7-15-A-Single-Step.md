@@ -23,4 +23,4 @@ Why “life” has to be so structured? It begins with High School, then we go t
 I decided to take the risk; to venture my energy and to enjoy a free education, a free life lesson and to live. Maybe I am a fool. I will be walking towards the abyss with a backpacking bag, a camera in my hand, a new set of glasses and hopefully the charm to get me out of trouble. 
 So next stop Budapest, Hungary! köszönöm 
 
-!https://sphotos-b.xx.fbcdn.net/hphotos-ash4/1005420_3103217816630_1866703802_n.jpg!
+![](https://sphotos-b.xx.fbcdn.net/hphotos-ash4/1005420_3103217816630_1866703802_n.jpg)

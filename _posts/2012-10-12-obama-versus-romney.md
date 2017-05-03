@@ -6,5 +6,5 @@ summary: US elections are highly undemocratic&#58; only Americans vote, yet the 
 title: Obama Versus Romney on The Middle East
 --- 
 
-!/assets/images/ObamaVersusRomney.jpg!
+![](/assets/images/ObamaVersusRomney.jpg)
 

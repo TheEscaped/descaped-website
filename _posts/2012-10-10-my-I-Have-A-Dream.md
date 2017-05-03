@@ -14,9 +14,9 @@ I have a dream that one day, in my lifetime, Muslims live out the true meaning o
 
 I have a dream that one day Islam becomes again synonymous with its etymological stem: peace and surrendering to God's will. That Muslims live up to their religion as it was brought onto them by the Prophet Muhammad PBUH, while reviving 3 simple rules: 
 
-# care for your fellow neighbors regardless of their race/color/ethnicity/religion/gender/age… or as Mother Teresa put it: "how can you love God whom you can't see if you do not love your neighbor with whom you live,"
-# feed the poor, and 
-# devote some of your time to God: to think, find your purpose, feed your soul.
+1. care for your fellow neighbors regardless of their race/color/ethnicity/religion/gender/age… or as Mother Teresa put it: "how can you love God whom you can't see if you do not love your neighbor with whom you live,"
+1. feed the poor, and 
+1. devote some of your time to God: to think, find your purpose, feed your soul.
 
 I have a dream that one day I will see more and more inter-racial Muslim marriages: Sunnis and Shii'as, Africans and Caucasians, Arabs and Asians, Turks and Persians - for Islam has never differentiated between people's color, language or ethnicity.
 
